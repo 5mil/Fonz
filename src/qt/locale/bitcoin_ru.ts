@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Ponz2</source>
-        <translation>О Ponz2</translation>
+        <source>About PUNZ</source>
+        <translation>О PUNZ</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Ponz2&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Ponz2&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;PUNZ&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;PUNZ&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Ponz2 developers</source>
+Copyright © 2014 The PUNZ developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики Ponz2</translation>
+Все права защищены © 2014 Разработчики PUNZ</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Ponz2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your PUNZ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Ponz2 address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Ponz2</translation>
+        <source>Sign a message to prove you own a PUNZ address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом PUNZ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Ponz2 address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Ponz2</translation>
+        <source>Verify a message to ensure it was signed with a specified PUNZ address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом PUNZ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Ponz2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>PUNZ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Ponz2</source>
-        <translation>Показать информацию о Ponz2&apos;е</translation>
+        <source>Show information about PUNZ</source>
+        <translation>Показать информацию о PUNZ&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Ponz2 address</source>
-        <translation>Отправить монеты на указанный адрес Ponz2</translation>
+        <source>Send coins to a PUNZ address</source>
+        <translation>Отправить монеты на указанный адрес PUNZ</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Ponz2</source>
-        <translation>Изменить параметры конфигурации Ponz2</translation>
+        <source>Modify configuration options for PUNZ</source>
+        <translation>Изменить параметры конфигурации PUNZ</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Ponz2</source>
-        <translation>Ponz2</translation>
+        <source>PUNZ</source>
+        <translation>PUNZ</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Ponz2</source>
-        <translation>&amp;О Ponz2</translation>
+        <source>&amp;About PUNZ</source>
+        <translation>&amp;О PUNZ</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Ponz2 client</source>
-        <translation>Ponz2 клиент</translation>
+        <source>PUNZ client</source>
+        <translation>PUNZ клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Ponz2 network</source>
+        <source>%n active connection(s) to PUNZ network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Ponz2 card</source>
-        <translation>О карте Ponz2</translation>
+        <source>About PUNZ card</source>
+        <translation>О карте PUNZ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Ponz2 card</source>
+        <source>Show information about PUNZ card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,8 +669,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Ponz2 address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Ponz2 или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUNZ address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом PUNZ или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Ponz2 can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Ponz2 не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. PUNZ can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. PUNZ не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1049,8 +1049,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Ponz2 address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Ponz2-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUNZ address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным PUNZ-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1068,8 +1068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Ponz2-Qt</source>
-        <translation>Ponz2-Qt</translation>
+        <source>PUNZ-Qt</source>
+        <translation>PUNZ-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1141,13 +1141,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Ponz2 after logging in to the system.</source>
-        <translation>Автоматически запускать Ponz2 после входа в систему</translation>
+        <source>Automatically start PUNZ after logging in to the system.</source>
+        <translation>Автоматически запускать PUNZ после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Ponz2 on system login</source>
-        <translation>&amp;Запускать Ponz2 при входе в систему</translation>
+        <source>&amp;Start PUNZ on system login</source>
+        <translation>&amp;Запускать PUNZ при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Ponz2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Ponz2-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the PUNZ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для PUNZ-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1176,8 +1176,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Ponz2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети Ponz2 через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the PUNZ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети PUNZ через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1251,8 +1251,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Ponz2.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Ponz2.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUNZ.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска PUNZ.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1266,8 +1266,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Ponz2 addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса Ponz2 в списке транзакций.</translation>
+        <source>Whether to show PUNZ addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса PUNZ в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1313,8 +1313,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Ponz2.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Ponz2</translation>
+        <source>This setting will take effect after restarting PUNZ.</source>
+        <translation>Эта настройка вступит в силу после перезапуска PUNZ</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1332,8 +1332,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ponz2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Ponz2 после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUNZ network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью PUNZ после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1548,8 +1548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Ponz2-Qt help message to get a list with possible Ponz2 command-line options.</source>
-        <translation>Показать помощь по Ponz2-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the PUNZ-Qt help message to get a list with possible PUNZ command-line options.</source>
+        <translation>Показать помощь по PUNZ-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,13 +1568,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Ponz2 - Debug window</source>
-        <translation>Ponz2 - Окно отладки</translation>
+        <source>PUNZ - Debug window</source>
+        <translation>PUNZ - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Ponz2 Core</source>
-        <translation>Ядро Ponz2</translation>
+        <source>PUNZ Core</source>
+        <translation>Ядро PUNZ</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Ponz2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Ponz2 из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the PUNZ debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл PUNZ из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1593,8 +1593,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Ponz2 RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Ponz2.</translation>
+        <source>Welcome to the PUNZ RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль PUNZ.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1752,8 +1752,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Ponz2 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите Ponz2-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите PUNZ-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1852,7 +1852,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Ponz2 address</source>
+        <source>WARNING: Invalid PUNZ address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1926,8 +1926,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Ponz2 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите Ponz2-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите PUNZ-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1987,8 +1987,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Ponz2 address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Ponz2</translation>
+        <source>Sign the message to prove you own this PUNZ address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом PUNZ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2019,8 +2019,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Ponz2 address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Ponz2</translation>
+        <source>Verify the message to ensure it was signed with the specified PUNZ address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом PUNZ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Ponz2 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес Ponz2 (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес PUNZ (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2040,8 +2040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Ponz2 signature</source>
-        <translation>Введите подпись Ponz2</translation>
+        <source>Enter PUNZ signature</source>
+        <translation>Введите подпись PUNZ</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2611,7 +2611,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Ponz2 version</source>
+        <source>PUNZ version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2621,8 +2621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Ponz2d</source>
-        <translation>Отправить команду на -server или Ponz2d</translation>
+        <source>Send command to -server or PUNZd</source>
+        <translation>Отправить команду на -server или PUNZd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2642,13 +2642,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Ponz2.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: Ponz2.conf)</translation>
+        <source>Specify configuration file (default: PUNZ.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: PUNZ.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ponz2d.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: Ponz2d.pid)</translation>
+        <source>Specify pid file (default: PUNZd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: PUNZd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ponz2 will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Ponz2 будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUNZ will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, PUNZ будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2987,13 +2987,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Ponz2rpc
+rpcuser=PUNZrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3119,13 +3119,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Ponz2 is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  PUNZ is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Ponz2</source>
-        <translation>Ponz2</translation>
+        <source>PUNZ</source>
+        <translation>PUNZ</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ponz2</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Ponz2</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUNZ</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию PUNZ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Ponz2 to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Ponz2 для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart PUNZ to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите PUNZ для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,8 +3234,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Ponz2 is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Ponz2 уже работает.</translation>
+        <source>Unable to bind to %s on this computer. PUNZ is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, PUNZ уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

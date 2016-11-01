@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Ponz2</source>
-        <translation>Despre Ponz2</translation>
+        <source>About PUNZ</source>
+        <translation>Despre PUNZ</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Ponz2&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Ponz2&lt;/b&gt;</translation>
+        <source>&lt;b&gt;PUNZ&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;PUNZ&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Ponz2 developers</source>
+Copyright © 2014 The PUNZ developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Ponz2 developers</translation>
+Copyright © 2014 The PUNZ developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Ponz2 addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Ponz2 pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your PUNZ addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele PUNZ pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Ponz2 address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Ponz2</translation>
+        <source>Sign a message to prove you own a PUNZ address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PUNZ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Ponz2 address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Ponz2</translation>
+        <source>Verify a message to ensure it was signed with a specified PUNZ address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PUNZ</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>Ponz2 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Ponz2 se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>PUNZ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>PUNZ se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Ponz2</source>
-        <translation>Arată informații despre Ponz2</translation>
+        <source>Show information about PUNZ</source>
+        <translation>Arată informații despre PUNZ</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Ponz2 address</source>
-        <translation>Trimite monede către o adresă Ponz2</translation>
+        <source>Send coins to a PUNZ address</source>
+        <translation>Trimite monede către o adresă PUNZ</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Ponz2</source>
-        <translation>Modifică opțiuni de configurare pentru Ponz2</translation>
+        <source>Modify configuration options for PUNZ</source>
+        <translation>Modifică opțiuni de configurare pentru PUNZ</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>Ponz2</source>
-        <translation>Ponz2</translation>
+        <source>PUNZ</source>
+        <translation>PUNZ</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Ponz2</source>
-        <translation>Despre Ponz2</translation>
+        <source>&amp;About PUNZ</source>
+        <translation>Despre PUNZ</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Ponz2 client</source>
-        <translation>Clientul Ponz2</translation>
+        <source>PUNZ client</source>
+        <translation>Clientul PUNZ</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Ponz2 network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Ponz2</numerusform><numerusform>%n conexiuni active la reteaua Ponz2</numerusform><numerusform>%n conexiuni active la reteaua Ponz2</numerusform></translation>
+        <source>%n active connection(s) to PUNZ network</source>
+        <translation><numerusform>%n conexiune activă la reteaua PUNZ</numerusform><numerusform>%n conexiuni active la reteaua PUNZ</numerusform><numerusform>%n conexiuni active la reteaua PUNZ</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About Ponz2 card</source>
-        <translation>Despre cardul Ponz2</translation>
+        <source>About PUNZ card</source>
+        <translation>Despre cardul PUNZ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Ponz2 card</source>
-        <translation>Arată informații despre card Ponz2</translation>
+        <source>Show information about PUNZ card</source>
+        <translation>Arată informații despre card PUNZ</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Ponz2 address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Ponz2 invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid PUNZ address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa PUNZ invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Ponz2 can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Ponz2 nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. PUNZ can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. PUNZ nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Ponz2 address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Ponz2 validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PUNZ address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă PUNZ validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Ponz2-Qt</source>
-        <translation>Ponz2-Qt</translation>
+        <source>PUNZ-Qt</source>
+        <translation>PUNZ-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Ponz2 after logging in to the system.</source>
-        <translation>Pornește Ponz2 imdiat după logarea în sistem</translation>
+        <source>Automatically start PUNZ after logging in to the system.</source>
+        <translation>Pornește PUNZ imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Ponz2 on system login</source>
-        <translation>$Pornește Ponz2 la logarea în sistem</translation>
+        <source>&amp;Start PUNZ on system login</source>
+        <translation>$Pornește PUNZ la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Ponz2 client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Ponz2 pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the PUNZ client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul PUNZ pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Ponz2 network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Ponz2 prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the PUNZ network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua PUNZ prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Ponz2.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Ponz2.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting PUNZ.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea PUNZ.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Ponz2 addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese Ponz2 din lista de tranzacție sau nu.</translation>
+        <source>Whether to show PUNZ addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese PUNZ din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Ponz2.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Ponz2.</translation>
+        <source>This setting will take effect after restarting PUNZ.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea PUNZ.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Ponz2 network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Ponz2 după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PUNZ network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua PUNZ după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Ponz2-Qt help message to get a list with possible Ponz2 command-line options.</source>
-        <translation>Afișa mesajul de ajutor Ponz2-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Ponz2.</translation>
+        <source>Show the PUNZ-Qt help message to get a list with possible PUNZ command-line options.</source>
+        <translation>Afișa mesajul de ajutor PUNZ-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă PUNZ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Ponz2 - Debug window</source>
-        <translation>Ponz2 - fereastră depanare</translation>
+        <source>PUNZ - Debug window</source>
+        <translation>PUNZ - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Ponz2 Core</source>
-        <translation>Ponz2 Core</translation>
+        <source>PUNZ Core</source>
+        <translation>PUNZ Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Ponz2 debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Ponz2 din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the PUNZ debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare PUNZ din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Ponz2 RPC console.</source>
-        <translation>Bine ati venit la consola Ponz2 RPC.</translation>
+        <source>Welcome to the PUNZ RPC console.</source>
+        <translation>Bine ati venit la consola PUNZ RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Ponz2 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Ponz2(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă PUNZ(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Ponz2 address</source>
-        <translation>Atenție: Adresă Ponz2 invalidă</translation>
+        <source>WARNING: Invalid PUNZ address</source>
+        <translation>Atenție: Adresă PUNZ invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Ponz2 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Ponz2(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă PUNZ(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Ponz2 address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Ponz2</translation>
+        <source>Sign the message to prove you own this PUNZ address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă PUNZ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Ponz2 address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Ponz2</translation>
+        <source>Verify the message to ensure it was signed with the specified PUNZ address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă PUNZ</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Ponz2 address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă Ponz2(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a PUNZ address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă PUNZ(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Ponz2 signature</source>
-        <translation>Introduceti semnatura Ponz2</translation>
+        <source>Enter PUNZ signature</source>
+        <translation>Introduceti semnatura PUNZ</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Ponz2 version</source>
-        <translation>Versiune Ponz2</translation>
+        <source>PUNZ version</source>
+        <translation>Versiune PUNZ</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Ponz2d</source>
-        <translation>Trimite comanda catre server sau Ponz2d</translation>
+        <source>Send command to -server or PUNZd</source>
+        <translation>Trimite comanda catre server sau PUNZd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Ponz2.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: Ponz2.conf)</translation>
+        <source>Specify configuration file (default: PUNZ.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: PUNZ.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Ponz2d.pid)</source>
-        <translation>Speficica fisier pid(implicit: Ponz2.pid)</translation>
+        <source>Specify pid file (default: PUNZd.pid)</source>
+        <translation>Speficica fisier pid(implicit: PUNZ.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Ponz2 will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Ponz2 nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PUNZ will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit PUNZ nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,22 +3000,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Ponz2rpc
+rpcuser=PUNZrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Ponz2rpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=PUNZrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;PUNZ Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Ponz2 is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  PUNZ is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Ponz2</source>
-        <translation>Ponz2</translation>
+        <source>PUNZ</source>
+        <translation>PUNZ</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Ponz2</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Ponz2</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PUNZ</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de PUNZ</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Ponz2 to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Ponz2 pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart PUNZ to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați PUNZ pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Ponz2 Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Ponz2 is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Ponz2 ruleaza</translation>
+        <source>Unable to bind to %s on this computer. PUNZ is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil PUNZ ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

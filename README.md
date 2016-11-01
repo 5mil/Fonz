@@ -1,6 +1,6 @@
 
-Ponz2 development tree
+PUNZ development tree
 
-Ponz2 is a PoS-based cryptocurrency.
+PUNZ is a PoS-based cryptocurrency.
 
 
